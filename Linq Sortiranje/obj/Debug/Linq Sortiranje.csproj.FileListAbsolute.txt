@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\bin\Debug\Linq Sortiranje.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\bin\Debug\Linq Sortiranje.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\bin\Debug\Linq Sortiranje.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\obj\Debug\Linq Sortiranje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\obj\Debug\Linq Sortiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\obj\Debug\Linq Sortiranje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\obj\Debug\Linq Sortiranje.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Linq Sortiranje\obj\Debug\Linq Sortiranje.pdb
